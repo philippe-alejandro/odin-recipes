@@ -1,0 +1,35 @@
+* {
+    color: purple;
+    font-family: "Open Sans", sans-serif;
+  }
+
+h1 {
+    color: red;
+    font-size: 40px;
+}
+
+body {
+    background: url("images/indexBackGround.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+.container1, .container2 {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 30px;
+}
+
+.h2SubRecipe,li {
+    font-size: 40px;
+}
+
+.bodySubRecipe {
+    margin-left: 200px;
+    margin-right: 200px;
+}
